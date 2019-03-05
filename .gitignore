@@ -1,1 +1,3 @@
-.sfdx/tools/apex.db
+.sfdx
+.vscode
+.DS_Store
